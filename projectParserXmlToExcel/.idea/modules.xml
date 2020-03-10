@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/xml-to-excel.iml" filepath="$PROJECT_DIR$/xml-to-excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlToExcel.iml" filepath="$PROJECT_DIR$/xmlToExcel.iml" />
     </modules>
   </component>
 </project>
